@@ -4,6 +4,10 @@
 
 <p><em>Computer Enginner at <a href="http://portal.utfpr.edu.br/">Federal University of Technology – Parana (UTFPR)</a>
 </em></p>
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovannemoro/)](https://www.linkedin.com/in/geovannemoro/)
 <!--
 **GeovanneMoro/geovannemoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
