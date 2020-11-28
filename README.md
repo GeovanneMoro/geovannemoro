@@ -17,6 +17,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-geovannemoro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/geovannemoro/)](https://www.linkedin.com/in/geovannemoro/)
 </div>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannemoro&show_icons=true&locale=en&layout=compact" alt="geovannemoro" /></p>
+
 <!--
 **GeovanneMoro/geovannemoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
