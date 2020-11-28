@@ -44,30 +44,6 @@
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
 
-### A little more about me
-
-```javascript
-const geova = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript","C Sharp", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "beer"],
-    technologies: {
-        frontEnd: {
-            js: ["react", "redux"],
-            css: ["bootstrap", "materialize"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-        },
-        devOps: ["Azure"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Currently improving my React skills",
-    funFact: "The first computer bug was an actual bug"
-};
-```
 ### Find me elsewhere 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-geovannemoro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/geovannemoro/)](https://www.linkedin.com/in/geovannemoro/)
