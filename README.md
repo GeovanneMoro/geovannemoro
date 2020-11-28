@@ -9,13 +9,12 @@
     <em>Computer Engineer at <a href="http://portal.utfpr.edu.br/">Federal University of Technology – Parana (UTFPR)</a></em>
 </p>
 
-### What I'm focusing on 👨‍💻
+### What I'm focusing on 🌱
 <p>
     Currently improving my React skills: Redux and React Native.
 </p>
 
-### Languages and Tools
-
+### Languages and Tools 👨‍💻
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -40,9 +39,6 @@
 [<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)   
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
 
 ### Find me elsewhere 🌎
 
