@@ -1,6 +1,6 @@
 <!--👋-->
 <p align="center">
-    <img style="height: 150px; border-radius: 10px;" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
+    <img style="height: 150px; border-radius: 10px" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 </p>
 
 <h1 align="center">I'm Geovanne Moro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
