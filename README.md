@@ -15,15 +15,15 @@
 ### A little more about me
 
 ```javascript
-const anmol = {
+const geova = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript","C Sharp", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "beer"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["react", "redux"],
+            css: ["bootstrap", "materialize"]
         },
         backEnd: {
             js: ["node", "express", "SuiteScript"],
