@@ -34,38 +34,12 @@
 [<code>
 <img alt="redux" width="26px" src="https://img.icons8.com/color/72/redux.png" />
 </code>](https://redux.js.org//)
-
 [<code> 
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
+</code>](https://docs.oracle.com/en/java/)   
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
