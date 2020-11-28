@@ -15,6 +15,7 @@
 </p>
 
 ### Ask me about 💬
+<p>Web dev, tech and beer 🍻 </p>
 
 ### Languages and Tools 👨‍💻
 [<code>
