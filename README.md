@@ -1,5 +1,7 @@
 <!--👋-->
+<div>
 <img align='left' style="display:block; width: 230px" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
+  </div>
 <div>
 <h2>Hello there, I'm Geovanne Moro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <h3>A passionate frontend developer from Brazil</h3>
