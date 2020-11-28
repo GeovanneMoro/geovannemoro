@@ -32,7 +32,7 @@ const geova = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Comptetive Programming using C++",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "The first computer bug was an actual bug"
 };
 ```
 ### Find me elsewhere 🌎
