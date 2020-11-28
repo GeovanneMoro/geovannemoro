@@ -1,5 +1,7 @@
 <!--👋-->
-<img style="display: flex; justify-content: center; width: 230px" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
+<div style="display: flex; justify-content: center;>
+    <img width: 230px" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
+</div>
 
 <h1 align="center">I'm Geovanne Moro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <p>
