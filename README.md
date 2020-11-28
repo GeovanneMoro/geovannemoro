@@ -4,7 +4,7 @@
 # I'm Geovanne Moro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>
     <em>A passionate frontend developer from Brazil</em><br>
-    <em>Computer Enginner at <a href="http://portal.utfpr.edu.br/">Federal University of Technology – Parana (UTFPR)</a></em>
+    <em>Computer Engineer at <a href="http://portal.utfpr.edu.br/">Federal University of Technology – Parana (UTFPR)</a></em>
 </p>
 
 ### Languages and Tools
