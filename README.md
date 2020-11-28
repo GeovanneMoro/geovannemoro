@@ -1,7 +1,7 @@
 <!--👋-->
 <img style="display:block; width: 230px" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 
-# I'm Geovanne Moro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">I'm Geovanne Moro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <p>
     <em>A passionate frontend developer from Brazil</em><br>
     <em>Computer Engineer at <a href="http://portal.utfpr.edu.br/">Federal University of Technology – Parana (UTFPR)</a></em>
