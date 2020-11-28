@@ -9,15 +9,15 @@
     <em>Computer Engineer at <a href="http://portal.utfpr.edu.br/">Federal University of Technology – Parana (UTFPR)</a></em>
 </p>
 
-### What I'm focusing on 🌱
+### 🌱 What I'm focusing on
 <p>
     Currently improving my React skills: Redux and React Native.
 </p>
 
-### Ask me about 💬
+### 💬 Ask me about
 <p>Web dev, tech and craft beer 🍻 </p>
 
-### Languages and Tools 👨‍💻
+### 👨‍💻 Languages and Tools
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -43,13 +43,13 @@
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)   
 
-### Find me elsewhere 🌎
+### 🌎 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-geovannemoro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/geovannemoro/)](https://www.linkedin.com/in/geovannemoro/)
 [![Instagram Badge](https://img.shields.io/badge/-geovannemoro-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/geovannemoro)](https://www.instagram.com/geovannemoro)
 
 
-### Fun Fact ⚡
+### ⚡ Fun Fact
 
 <p>
     The first computer bug was an actual bug 🐛
