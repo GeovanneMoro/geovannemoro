@@ -14,6 +14,8 @@
     Currently improving my React skills: Redux and React Native.
 </p>
 
+### Ask me about 💬
+
 ### Languages and Tools 👨‍💻
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
@@ -46,7 +48,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-geovannemoro-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/geovannemoro)](https://www.instagram.com/geovannemoro)
 
 
-### Fun Fact
+### Fun Fact ⚡
+
+<p>
+    The first computer bug was an actual bug 🐛
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannemoro&show_icons=true&locale=en&layout=compact" alt="geovannemoro" /></p>
 
 <!--
