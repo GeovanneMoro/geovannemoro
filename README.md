@@ -1,5 +1,8 @@
 <h1>Hello there, I'm Geovanne Moro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> <!--👋-->
 
+<h1 align="center">Hi 👋, I'm Geovanne Moro</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 <img align='right' src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="230">
 
 <p><em>Computer Enginner at <a href="http://portal.utfpr.edu.br/">Federal University of Technology – Parana (UTFPR)</a>
