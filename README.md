@@ -1,8 +1,6 @@
 <!--👋-->
-<div>
 <img style="display:block; width: 230px" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
-  </div>
-<div>
+
 <h1>I'm Geovanne Moro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <h3>A passionate frontend developer from Brazil</h3>
 
@@ -27,9 +25,8 @@ const geova = {
         },
         backEnd: {
             js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["Azure"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
@@ -38,12 +35,9 @@ const geova = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-
 ### Find me elsewhere 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-geovannemoro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/geovannemoro/)](https://www.linkedin.com/in/geovannemoro/)
-</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannemoro&show_icons=true&locale=en&layout=compact" alt="geovannemoro" /></p>
 
