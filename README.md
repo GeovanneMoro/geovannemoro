@@ -20,16 +20,16 @@
 ### 👨‍💻 Languages and Tools
 
 <p align="left"> 
-     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/240/000000/html-5.png" alt="html5" width="26" height="26"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/240/000000/css3.png" alt="css3" width="26" height="26"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/240/000000/bootstrap.png" alt="bootstrap" width="26" height="26"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" width="26" height="26"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="26" height="26"/> </a> 
+     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/240/000000/html-5.png" alt="html5" width="30" height="30"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/240/000000/css3.png" alt="css3" width="30" height="30"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/240/000000/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" width="30" height="30"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="30" height="30"/> </a> 
      <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/240/000000/react-native.png" alt="react" width="30" height="30"/> </a> 
-     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/72/redux.png" alt="redux" width="26" height="26"/> </a>
-     <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/344/nodejs.png" alt="nodejs" width="26" height="26"/> </a>   
-      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26" height="26"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="26" height="26"/> </a> 
+     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/72/redux.png" alt="redux" width="30" height="30"/> </a>
+     <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/344/nodejs.png" alt="nodejs" width="30" height="30"/> </a>   
+      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
 </p>
 
 ### 🌎 Find me elsewhere
