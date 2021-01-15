@@ -24,32 +24,25 @@
 
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-                                                                                        
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)                                                                                     
 [<code>
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-                                                                                   
+</code>](https://sass-lang.com/)                                                                             
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 [<code>
-<img src="https://img.icons8.com/color/240/000000/bootstrap.png" alt="bootstrap" width="26px/>
+<img alt="bootstrap" width="26px src="https://img.icons8.com/color/240/000000/bootstrap.png" />
 <code>](https://getbootstrap.com)
-
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
-
 [<code>
 <img alt="redux" width="26px" src="https://img.icons8.com/color/72/redux.png" />
 </code>](https://redux.js.org//)
-
 [<code> 
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
-
 [<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)   
