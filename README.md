@@ -21,7 +21,6 @@
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)                                                                                     
@@ -32,7 +31,7 @@
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="bootstrap" width="26px src="https://img.icons8.com/color/240/000000/bootstrap.png" />
+<img alt="bootstrap" width="26px" src="https://img.icons8.com/color/240/000000/bootstrap.png" />
 <code>](https://getbootstrap.com)
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
