@@ -18,6 +18,7 @@
 <p>Web dev, tech and craft beer 🍻 </p>
 
 ### 👨‍💻 Languages and Tools
+
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
